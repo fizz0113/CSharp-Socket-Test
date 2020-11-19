@@ -1,0 +1,7 @@
+E:\Cs_MyStyle\Socket_test\Socket_test\bin\Debug\Socket_test.exe.config
+E:\Cs_MyStyle\Socket_test\Socket_test\bin\Debug\Socket_test.exe
+E:\Cs_MyStyle\Socket_test\Socket_test\bin\Debug\Socket_test.pdb
+E:\Cs_MyStyle\Socket_test\Socket_test\obj\Debug\Socket_test.csprojResolveAssemblyReference.cache
+E:\Cs_MyStyle\Socket_test\Socket_test\obj\Debug\Socket_test.csproj.CoreCompileInputs.cache
+E:\Cs_MyStyle\Socket_test\Socket_test\obj\Debug\Socket_test.exe
+E:\Cs_MyStyle\Socket_test\Socket_test\obj\Debug\Socket_test.pdb

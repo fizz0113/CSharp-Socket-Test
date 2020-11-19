@@ -1,0 +1,6 @@
+E:\Cs_MyStyle\Socket_test2\Socket_test2\bin\Debug\Socket_test2.exe.config
+E:\Cs_MyStyle\Socket_test2\Socket_test2\bin\Debug\Socket_test2.exe
+E:\Cs_MyStyle\Socket_test2\Socket_test2\bin\Debug\Socket_test2.pdb
+E:\Cs_MyStyle\Socket_test2\Socket_test2\obj\Debug\Socket_test2.csproj.CoreCompileInputs.cache
+E:\Cs_MyStyle\Socket_test2\Socket_test2\obj\Debug\Socket_test2.exe
+E:\Cs_MyStyle\Socket_test2\Socket_test2\obj\Debug\Socket_test2.pdb
